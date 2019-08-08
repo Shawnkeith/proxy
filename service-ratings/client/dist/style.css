@@ -1,0 +1,73 @@
+.header{
+    text-align: center
+}
+.reviews{
+    margin-right:  auto;
+    margin-left: auto;
+    /* margin-inline-start: 0%;
+    margin-inline-end: 10px */
+}
+
+.positive{
+    
+    margin-right:  auto;
+    margin-left: auto;
+    margin-inline-start: 0%;
+    margin-inline-end: 10px;
+    text-align: justify;
+    width: 20%;
+    text-align-last: left
+}
+
+.negative{
+    margin-left:auto;
+    margin-right: auto;
+    margin-inline-start: 42%;
+    margin-inline-end: 100%
+    /* text-align: justify;
+    width: 20%;
+    text-align-last: right */
+}
+
+.product{
+    text-align: center
+}
+
+.goodReviews{
+    margin-left:auto;
+    margin-right: auto;
+    margin-inline-start: 0%;
+    margin-inline-end: 10%
+    /* text-align: justify; */
+    /* float: left; */
+    /* height: 40; */
+    /* width: 20%;
+    text-align-last: left */
+}
+
+.badReviews{
+    margin-left:auto;
+    margin-right: 20%;
+    margin-inline-start: 42%
+    /* text-align: justify;
+    /* float: right; */
+    /* height: 40%; */
+    /* width: 20%;
+    text-align-last: center; */
+    
+}
+
+.bar {
+    position: relative;
+    height: 20px;
+    width: 350px;
+    border-radius: 50px;
+    border: 1px solid #333;
+  }
+  
+  .filler {
+    background: rgb(243, 229, 31);
+    height: 100%;
+    border-radius: inherit;
+    transition: width .2s ease-in;
+  }

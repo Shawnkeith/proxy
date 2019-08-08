@@ -1,0 +1,106 @@
+html, body { height: 100%; }
+body {
+    margin: 0;
+    background: radial-gradient(rgb(235, 240, 241), rgb(144, 213, 243));
+    overflow: hidden;
+}
+  
+#DBForm{
+  color: #054ebb93; 
+  font-family: Courier, monospace; 
+  font-size: 50px; 
+  line-height: 90px; 
+  font-weight: bold; 
+  text-align: center;
+  text-shadow: 0 10px 10px rgb(26, 17, 1);
+  /* background-color: rgb(254, 254, 255); */
+
+  }
+
+  .DBForm-footer{
+    
+    margin-left: auto;
+    margin-right: auto;
+    color: #0a0a02;
+    font-size: 15px;
+    background-size: 0px;
+    font-weight: bolder;
+    border-radius: -100px;
+
+  }
+
+  
+
+  .Brand_Name {
+    /* width: 40%; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    color: #f3f035;
+    font-size: 15px;
+    background-size: 0px;
+    font-weight: bolder;
+    border-radius: -100px;
+  }
+
+  .Pricing {
+    /* width: 40%; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    color: #cbf7f393;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #f30808;
+    border-radius: -100px;
+  }
+
+  .In_Stock {
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 40%; */
+    color: #cbf7f393;
+    font-size: 15px;
+    
+    font-weight: bolder;
+    color: #09377488;
+    border-radius: -100px;
+  }
+
+  .Item_Weight {
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 40%; */
+    color: #cbf7f393;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #ee6408;
+    border-radius: -100px;
+  }
+
+  .Size {
+    margin-left: auto;
+    margin-right: auto;
+    color: #cbf7f393;
+    /* width: 40%; */
+    font-size: 15px;
+    font-weight: bolder;
+    color: #9209c9;
+    border-radius: -100px;
+  }
+
+  .Manufacturer_Number {
+    margin-left: auto;
+    margin-right: auto;
+    color: #cbf7f393;
+    /* width: 40%; */
+    font-size: 15px;
+    font-weight: bolder;
+    color: #0a9705;
+    border-radius: -100px;
+  } 
+
+
+
+
+  

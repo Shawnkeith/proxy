@@ -1,0 +1,29 @@
+  #Sponsored {
+    display: block;
+  }
+  
+  #Description {
+    margin-left: 5px;
+    display: inline-block;
+  }
+  
+  #Photos {
+    margin: 10%;
+    display: block;
+  }
+
+  #Questions {
+    margin: 10%;
+    display: block;
+  }
+
+  #Ratings {
+    margin: 10%;
+    display: block;
+  }
+
+  #Related {
+    margin: 10%;
+    display: block;
+  }
+  
